@@ -10,7 +10,7 @@
 	<packaging>bundle</packaging>
 	
 	<scm>
-		<developerConnection>scm:git:ssh://git@github.com:timgesekus/osgi-manager-impl.git</developerConnection>
+		<developerConnection>scm:git:ssh://git@github.com/timgesekus/osgi-manager-impl.git</developerConnection>
   </scm>
 	
 	<build>
